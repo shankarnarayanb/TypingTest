@@ -1,0 +1,20 @@
+.box.column.is-one-third {
+  margin-top: 2em;
+}
+
+p.has-text-centered {
+  margin-bottom: 1em;
+}
+
+.pending {
+  color: gray;
+}
+
+.correct {
+  color: greenyellow;
+}
+
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
